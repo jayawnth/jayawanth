@@ -27,14 +27,14 @@ Welcome to my GitHub profile! I'm **Jayawanth**, a passionate developer who love
 
 ## 🧠 Languages & Proficiency
 
-| Language     | Proficiency |
-|--------------|-------------|
-| Python 🐍    | ⭐⭐⭐⭐☆       |
-| JavaScript   | ⭐⭐⭐⭐☆       |
-| HTML & CSS   | ⭐⭐⭐⭐⭐       |
-| C++          | ⭐⭐⭐☆☆       |
-| Java         | ⭐⭐☆☆☆       |
-| SQL / NoSQL  | ⭐⭐⭐⭐☆       |
+| Language         | Proficiency     |
+|------------------|-----------------|
+| ![Python](https://img.icons8.com/color/25/000000/python.png) Python        | ⭐⭐⭐⭐☆ |
+| ![JS](https://img.icons8.com/color/25/000000/javascript.png) JavaScript    | ⭐⭐⭐⭐☆ |
+| ![HTML](https://img.icons8.com/color/25/000000/html-5.png) ![CSS](https://img.icons8.com/color/25/000000/css3.png) HTML & CSS | ⭐⭐⭐⭐⭐ |
+| ![C++](https://img.icons8.com/color/25/000000/c-plus-plus-logo.png) C++    | ⭐⭐⭐☆☆ |
+| ![Java](https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png) Java | ⭐⭐☆☆☆ |
+| SQL / NoSQL | ⭐⭐⭐⭐☆ |
 
 ---
 
