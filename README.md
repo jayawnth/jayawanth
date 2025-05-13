@@ -81,8 +81,8 @@ Welcome to my GitHub profile! I'm **Jayawanth**, a passionate developer who love
 ### 📫 Connect With Me
 
 * 📧 Email: \[[jayawanthraotalarigmail.com](mailto:your-email@example.com)]
-* 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-* 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+* 💼 LinkedIn: 
+* 🌐 Portfolio: 
 
 ---
 
